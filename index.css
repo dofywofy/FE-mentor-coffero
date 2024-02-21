@@ -31,7 +31,7 @@ main {
 }
 
 .hero-box {
-    background-image: url('./assets/home/desktop/image-hero-coffeepress.jpg');
+    background-image: url('./starter-code/assets/home/desktop/image-hero-coffeepress.jpg');
     background-size: cover;
     border-radius: 20px;
     height: 500px;
